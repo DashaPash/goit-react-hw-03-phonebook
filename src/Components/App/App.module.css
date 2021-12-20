@@ -1,0 +1,13 @@
+.section {
+  width: 600px;
+  padding: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #f3f6f4;
+  box-shadow: 4px 4px 8px 0px rgba(188, 188, 188, 0.73);
+  border-radius: 5px;
+}
+
+.title {
+  margin-bottom: 15px;
+}

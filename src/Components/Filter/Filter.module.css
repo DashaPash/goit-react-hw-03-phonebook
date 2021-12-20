@@ -1,0 +1,15 @@
+.text {
+  margin-bottom: 5px;
+}
+
+.input {
+  width: 350px;
+  margin-bottom: 20px;
+  border: 2px solid #999999;
+  border-radius: 10px;
+  background-color: #eeeeee;
+}
+
+.input:hover {
+  border-color: #e69138;
+}
