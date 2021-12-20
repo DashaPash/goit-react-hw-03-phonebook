@@ -1,7 +1,7 @@
 {
-  "name": "goit-react-hw-02-phonebook",
+  "name": "goit-react-hw-03-phonebook",
   "version": "0.1.0",
-  "homepage": "https://dashapash.github.io/goit-react-hw-02-phonebook/",
+  "homepage": "https://dashapash.github.io/goit-react-hw-03-phonebook/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dashapash/goit-react-hw-02-phonebook"
+    "url": "git+https://github.com/dashapash/goit-react-hw-03-phonebook"
   },
   "scripts": {
     "start": "react-scripts start",

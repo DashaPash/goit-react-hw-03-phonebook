@@ -12,5 +12,5 @@ export default function ContactsListItem({ name, number }) {
 
 ContactsListItem.propTypes = {
   name: PropTypes.string.isRequired,
-  number: PropTypes.number.isRequired,
+  number: PropTypes.string.isRequired,
 };
